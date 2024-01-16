@@ -35,6 +35,10 @@ import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 
+import rickyLogo from '../assets/ricky-logo-bg.png';
+import profile1 from '../assets/profile-1.png';
+import profile2 from '../assets/profile-2.png';
+
 /* eslint import/no-anonymous-default-export: [2, {"allowObject": true}] */
 export default {
   email,
@@ -69,5 +73,8 @@ export default {
   bolt,
   nb,
   skype,
-  spotify
+  spotify,
+  rickyLogo,
+  profile1,
+  profile2
 };
